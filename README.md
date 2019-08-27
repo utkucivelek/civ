@@ -94,7 +94,6 @@ I definitely agree        I agree        Neither        I disagree        I defi
 Use of Time
 
 8) Please, mark how much you agree with the following statements about your use of and approach to time 
-
 Please select the most appropriate option for each item
 I definitely agree        I agree        Neither        I disagree        I definitely disagree
 
