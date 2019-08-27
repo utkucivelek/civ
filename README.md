@@ -7,3 +7,4 @@ The data includes 200 participants' responses to a survey that aims to reveal pr
 A detailed summary of the research is given on medium.com:
 https://medium.com/@utkucivelek/what-do-we-want-from-a-calendar-7b6d52ad00ae
 
+Survey questions and answering options are given below.
