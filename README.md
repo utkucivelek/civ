@@ -1,4 +1,4 @@
-# Analysis of Survey Data about Calendar Demands
+# Analysis of a Survey on Calendar Features
 
 This project use Python 3.X and libraries of ...
 
