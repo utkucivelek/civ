@@ -1,6 +1,6 @@
 # Analysis of a Survey on Calendar Features
 
-This project use Python 3.X and libraries of numpy, pandas, matplotlib, seaborn, sklearn.cluster, sklearn.decomposition, sklearn.preprocessing, sklearn.ensemble, sklearn.model_selection, sklearn.metrics.
+This project use Python 3 and libraries of numpy, pandas, matplotlib, seaborn, sklearn.preprocessing, sklearn.ensemble, sklearn.model_selection, and sklearn.metrics.
 
 The data includes 200 participants' responses to a survey that aims to reveal prevalence of calendar feature demands of university students, in correlation with their personal time-styles, tool choices, and busyness.
 
